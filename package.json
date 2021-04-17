@@ -12,8 +12,7 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node server.js",
   },
   "author": "Suraj Gupta",
   "license": "MIT"
